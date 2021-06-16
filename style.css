@@ -1,0 +1,71 @@
+.bodycolor{
+    background-color: lightblue;
+}
+.heading{
+    
+    background-color: black;
+    color: white;
+    padding: 20px;
+    
+}
+.allign{
+    text-align:right;
+    font-size: 20px;
+    padding-left: 0px;
+    padding-right: 10px;
+    /* border: solid rgb(252, 170, 211);
+    background-color: lightcoral; */
+    border-radius: 10px;
+    flex-wrap: wrap;
+    
+    border: solid black;
+    background-color: lightblue;
+    text-decoration: none;
+    margin-left: 1165px;
+    padding-left: 10px;
+    
+    
+}
+.hi{
+    text-align: center;
+}
+.myflex{
+    display: flex;
+    flex-direction: row;
+}
+#rnnname{
+    font-size: 20px;
+    padding-left: 30px;
+    
+}
+.intr1{
+    text-align: center;
+    font-family: Verdana;
+    font-size: 20px;
+}
+.intr2{
+    text-align: center;
+    font-family: fantasy;
+    font-size: 30px;
+}
+.miniintr{
+    text-align-last: center;
+    font-family: cursive;
+}
+.pic{
+    border-radius: 50%;
+    
+    display: block;
+    margin-left: 40%;
+    /* margin-right: 50%; */
+    width: 20%;
+    box-shadow: 0px 2px 20px 2px;
+}
+.class{
+    border:solid black;
+    border-radius: 10px;
+    box-shadow: 0px 2px 15px 2px;
+    width:50%;
+    margin-left: 22%;
+    padding: 25px;
+}
