@@ -1,5 +1,6 @@
 .bodycolor{
     background-color: lightblue;
+    margin: 0;
 }
 .heading{
     
@@ -13,18 +14,19 @@
     font-size: 20px;
     padding-left: 0px;
     padding-right: 10px;
-    /* border: solid rgb(252, 170, 211);
-    background-color: lightcoral; */
+    border: solid rgb(252, 170, 211);
+    background-color: lightcoral;
     border-radius: 10px;
     flex-wrap: wrap;
     
-    border: solid black;
-    background-color: lightblue;
-    text-decoration: none;
-    margin-left: 1165px;
+    /* border: solid black;
+    background-color: lightblue; */
     padding-left: 10px;
     
     
+}
+.allign a{
+    text-decoration: none;
 }
 .hi{
     text-align: center;
@@ -32,6 +34,7 @@
 .myflex{
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
 }
 #rnnname{
     font-size: 20px;
